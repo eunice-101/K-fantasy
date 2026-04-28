@@ -1,0 +1,3 @@
+[submodule "NovelClaw"]
+	path = NovelClaw
+	url = https://github.com/iLearn-Lab/NovelClaw.git
